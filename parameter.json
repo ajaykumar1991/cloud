@@ -21,7 +21,7 @@
 
     {
 	"ParameterKey": "InstanceSecurityGroup",
-	"ParameterValue": "launch-wizard-3"
+	"ParameterValue": "sg-547c5729"
     }
 	
 ]
