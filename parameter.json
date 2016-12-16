@@ -11,17 +11,17 @@
    
    {
        "ParameterKey": "KeyName",
-       "ParameterValue": "srinu"
+       "ParameterValue": "newkey"
     },
 
     {
         "ParameterKey": "SubnetId",
-        "ParameterValue": "subnet-81e839ac"
+        "ParameterValue": "subnet-374d801a"
     },
 
     {
 	"ParameterKey": "InstanceSecurityGroup",
-	"ParameterValue": "sg-55a46128"
+	"ParameterValue": "launch-wizard-3"
     }
 	
 ]
