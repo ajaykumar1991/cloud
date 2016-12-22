@@ -1,7 +1,7 @@
  [
    {
     "ParameterKey": "ImageID",
-    "ParameterValue": "ami-b73b63a0"
+    "ParameterValue": "ami-e13739f6"
     },
 
    {
@@ -11,17 +11,17 @@
    
    {
        "ParameterKey": "KeyName",
-       "ParameterValue": "newkey"
+       "ParameterValue": "homework"
     },
 
     {
         "ParameterKey": "SubnetId",
-        "ParameterValue": "subnet-374d801a"
+        "ParameterValue": "subnet-ade24b80"
     },
 
     {
 	"ParameterKey": "InstanceSecurityGroup",
-	"ParameterValue": "sg-547c5729"
+	"ParameterValue": "sg-d35e65ae"
     }
 	
 ]
