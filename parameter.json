@@ -1,7 +1,7 @@
  [
    {
     "ParameterKey": "ImageID",
-    "ParameterValue": "ami-e13739f6"
+    "ParameterValue": "ami-b73b63a0"
     },
 
    {
@@ -11,7 +11,7 @@
    
    {
        "ParameterKey": "KeyName",
-       "ParameterValue": "homework"
+       "ParameterValue": "homework2"
     },
 
     {
@@ -21,7 +21,7 @@
 
     {
 	"ParameterKey": "InstanceSecurityGroup",
-	"ParameterValue": "sg-d35e65ae"
+	"ParameterValue": "sg-ed437890"
     }
 	
 ]
